@@ -136,17 +136,17 @@ npm run test:karma -- --grep <track-name>
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/dosandk">
-            <img src="https://avatars.githubusercontent.com/u/7078894?v=4" width="100;" alt="dosandk"/>
-            <br />
-            <sub><b>dosandk</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/merezhanyi-eleks">
             <img src="https://avatars.githubusercontent.com/u/103418570?v=4" width="100;" alt="merezhanyi-eleks"/>
             <br />
             <sub><b>merezhanyi-eleks</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dosandk">
+            <img src="https://avatars.githubusercontent.com/u/7078894?v=4" width="100;" alt="dosandk"/>
+            <br />
+            <sub><b>dosandk</b></sub>
         </a>
     </td>
     <td align="center">
